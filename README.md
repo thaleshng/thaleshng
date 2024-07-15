@@ -28,6 +28,7 @@
   <img align="center" alt="JEST" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Styled Components" height="50" width="60" src="https://skillicons.dev/icons?i=styledcomponents">
   <img align="center" alt="Redux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+  <img align="center" alt="PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
  
  <br>
