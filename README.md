@@ -1,4 +1,6 @@
-# Bem-vindo(a) ao meu perfil 🧙‍♂️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=550&lines=%F0%9F%91%BE+Bem-vindo(a)+ao+meu+perfil+%F0%9F%91%BE+)](https://git.io/typing-svg)
+
+
 
 <div>
   <a href="https://github.com/thaleshng">
@@ -16,19 +18,21 @@
 </div>
 
 <h2 align="center">💻 Tecnologias 💻</h2>
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="GitHub" height="50" width="60" style="background color=white" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF">
-  <img align="center" alt="GIT" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="JEST" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="Styled Components" height="50" width="60" src="https://skillicons.dev/icons?i=styledcomponents">
-  <img align="center" alt="Redux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-  <img align="center" alt="PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=html" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=css" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=js" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=ts" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=react" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=github" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=git" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=npm" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=jest" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=styledcomponents" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=redux" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=postgresql" />
+  <img height="60" width="60" src="https://skillicons.dev/icons?i=nodejs" />
 </div>
  
  <br>
